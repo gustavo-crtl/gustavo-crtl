@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ...
 - 🌱 Python's frameworks
 - 🤔 I’m looking for help with: Flask
-- 📫 How to reach me: ...
+- 📫 How to reach me: You can contact me through the social networks below 
 
 <div align="center">
   <a href="https://github.com/gustavo-crtl">
