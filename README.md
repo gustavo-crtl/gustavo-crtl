@@ -1,6 +1,6 @@
-### Hi! 👋 I'm Gustavo Juvêncio 
+### Hey! 👋 I'm Gustavo Juvêncio, Front-end Developer and Graphic Designer 
 
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ... -->
 - 🌱 Python's frameworks
 - 🤔 I’m looking for help with: Flask
 - 📫 How to reach me: You can contact me through the social networks below 
