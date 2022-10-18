@@ -2,7 +2,7 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 - 📖 Currently Studying: Python's frameworks
-- 🤔 I’m looking for help with: Flask
+- 🤔 I’m looking for help with: Django
 - 📫 How to reach me: You can contact me through the social networks below 
 
 <div align="center">
