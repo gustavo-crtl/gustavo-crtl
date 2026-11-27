@@ -37,3 +37,9 @@ I build and maintain Odoo solutions used every day by real businesses: custom mo
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gustavojuvencio/)
 
 > **PT-BR:** Desenvolvedor Odoo e Python em São Paulo. Aberto a projetos freelance em Odoo, integrações e sites institucionais. Fale comigo pelo LinkedIn.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavo-crtl/gustavo-crtl/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavo-crtl/gustavo-crtl/output/github-snake.svg" />
+  <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/gustavo-crtl/gustavo-crtl/output/github-snake.svg" />
+</picture>
